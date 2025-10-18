@@ -11,3 +11,5 @@ This theme can be installed two ways to your Omarchy system. Choose one.
 1. Copy this link: `https://github.com/RegorTheDodger/omarchy-beautifully-blue-theme.git`
 2. Open Walker, `SUPER+ALT+SPACE`, navigate to: Install < Style < Theme
 3. Paste: `CTRL+SHIFT+V`, then press enter/return.
+
+inspired from Omarchy Bauhaus theme and Omarchy Ayaka theme
