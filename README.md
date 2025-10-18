@@ -1,6 +1,6 @@
 This is the Beautifully Blue theme for Omarchy
 
-<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/edaa2e01-2670-4939-aa5b-be7941ae34ca" />
+<img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/c581cc99-b8c4-44fe-b8b9-916f355b1dda" />
 
 # Installation
 This theme can be installed two ways to your Omarchy system. Choose one.
