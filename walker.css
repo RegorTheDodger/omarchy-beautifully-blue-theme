@@ -3,7 +3,7 @@
 @define-color base #101318;
 @define-color border #809D9E;
 @define-color foreground #EAEFF5;
-@define-color background #101318;
+@define-color background #00000000;
 @define-color selected-gradient linear-gradient(90deg, #2B3040 0%, #3A3F4C 100%);
 @define-color selected-accent #4169E1;
 @define-color caret #4169E1;
@@ -13,7 +13,7 @@
 window,
 #window,
 #box {
-  background-color: @background;
+  background: alpha(@background);
   color: @foreground;
   border: 1px solid alpha(@border, 0.45);
   border-radius: 12px;
