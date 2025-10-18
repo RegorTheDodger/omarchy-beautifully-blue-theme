@@ -84,3 +84,9 @@ If the theme uses a Lua file for runtime variables, update the corresponding val
 - Based on ideas from:
   - omarchy-ayaka-theme — https://github.com/abhijeet-swami/omarchy-ayaka-theme
   - omarchy-bauhaus-theme — https://github.com/somerocketeer/omarchy-bauhaus-theme
+### TERMINAL
+`omarchy-theme-install https://github.com/RegorTheDodger/omarchy-beautifully-blue-theme.git`
+### WALKER MENU
+1. Copy this link: `https://github.com/RegorTheDodger/omarchy-beautifully-blue-theme.git`
+2. Open Walker, `SUPER+ALT+SPACE`, navigate to: Install < Style < Theme
+3. Paste: `CTRL+SHIFT+V`, then press enter/return.
