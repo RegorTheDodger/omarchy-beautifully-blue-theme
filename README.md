@@ -5,8 +5,8 @@ This is the Beautifully Blue theme for Omarchy
 This theme can be installed two ways to your Omarchy system. Choose one.
 
 ### TERMINAL
-`omarchy-theme-install https://github.com/RogerSamuel6358/omarchy-Beautifully-Blue-theme.git`
+`omarchy-theme-install https://github.com/RogerSamuel6358/omarchy-beautifully-blue-theme.git`
 ### WALKER MENU
-1. Copy this link: `https://github.com/RogerSamuel6358/omarchy-Beautifully-Blue-theme.git`
+1. Copy this link: `https://github.com/RogerSamuel6358/omarchy-beautifully-blue-theme.git`
 2. Open Walker, `SUPER+ALT+SPACE`, navigate to: Install < Style < Theme
 3. Paste: `CTRL+SHIFT+V`, then press enter/return.
